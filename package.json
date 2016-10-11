@@ -1,0 +1,23 @@
+{
+  "name": "express.js",
+  "version": "1.0.0",
+  "description": "mandatory assingnment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fryjabe/mandatoryExpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fryjabe/mandatoryExpress/issues"
+  },
+  "homepage": "https://github.com/fryjabe/mandatoryExpress#readme",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0"
+  }
+}
